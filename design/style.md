@@ -8,3 +8,10 @@
 4. add8de
 5. aadddd
 6. ab99d1
+
+
+## Typography
+- (32px) Heading 1:[ Playfair Display](https://fonts.google.com/specimen/Playfair+Display?category=Serif)
+- (24px) Section Title: [ Edu TAS Beginner](https://fonts.google.com/specimen/Edu+TAS+Beginner?query=edu+tas)
+- (18px) Navigation: [ Ibarra Real Nova](https://fonts.google.com/specimen/Ibarra+Real+Nova)
+- (14px) Paragraph Text:[ Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro?category=Serif)
