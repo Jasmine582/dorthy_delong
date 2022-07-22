@@ -12,6 +12,6 @@
 
 ## Typography
 - (32px) Heading 1:[ Playfair Display](https://fonts.google.com/specimen/Playfair+Display?category=Serif)
-- (24px) Section Title: [ Edu TAS Beginner]([https://fonts.google.com/specimen/Edu+VIC+WA+NT+Beginner](https://fonts.google.com/specimen/Edu+TAS+Beginner?query=edu+tas))
+- (24px) Section Title: [ Edu TAS Beginner](https://fonts.google.com/specimen/Edu+TAS+Beginner?query=edu+tas)
 - (18px) Navigation: [ Ibarra Real Nova](https://fonts.google.com/specimen/Ibarra+Real+Nova)
 - (14px) Paragraph Text:[ Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro?category=Serif)
