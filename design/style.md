@@ -6,7 +6,7 @@
 2. fce8de
 3. fcaeae
 4. add8de
-5. aadddd
+5. aadddd : Add to hover effects
 6. ab99d1
 
 
