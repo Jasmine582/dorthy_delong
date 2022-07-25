@@ -15,3 +15,6 @@
 - (24px) Section Title: [ Edu TAS Beginner](https://fonts.google.com/specimen/Edu+TAS+Beginner?query=edu+tas)
 - (18px) Navigation: [ Ibarra Real Nova](https://fonts.google.com/specimen/Ibarra+Real+Nova)
 - (14px) Paragraph Text:[ Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro?category=Serif)
+
+## Effects
+- Add hover effect over nav bar and photos
