@@ -24,8 +24,8 @@ It should help get her work shown in museums, both locally and abroad. Up to now
 - web design process
 - created sketch and digital wire frames
 - created color schemes and font pairing
-<!-- ### Development
-- Technology 1
-- Technology 2 -->
+
+### Development
+- Added HTML
 
 [Back To The Top](#table-of-contents)
