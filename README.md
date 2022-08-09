@@ -27,5 +27,6 @@ It should help get her work shown in museums, both locally and abroad. Up to now
 
 ### Development
 - Added HTML
+- Added CSS(header)
 
 [Back To The Top](#table-of-contents)
