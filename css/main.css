@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     font-size: 100%;
+    
 }
 img {
     width:100%;
@@ -20,11 +21,29 @@ a{
 header{
     background-color: #314455;
     color:#f1d0d3;
+    border-radius: 40px;
+    text-align: center;
 }
 header img {
     width:15%;
+    margin-left: 95%;
+}
+h1{
+    font-size: 2rem;
+    text-align: center;
+    padding: 20px;
+}
+nav{
+    font-size: 8px;
+}
+.quote {
+    font-size: 1.5rem;
+    padding-top: 5%;
 }
 #portfolio{
     background-color: #a55e63;
-    opacity: 8%;
+    border-radius: 40px;
+    display:flex;
+    justify-content: center;
+    align-content: center;
 }
