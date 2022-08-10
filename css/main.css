@@ -47,3 +47,16 @@ nav{
     justify-content: center;
     align-content: center;
 }
+.photo-row-1,.photo-row-2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 25%;
+}
+.card{
+    display:grid;
+    grid-template-rows: repeat(2, 50px);
+    gap:12px;
+
+}
