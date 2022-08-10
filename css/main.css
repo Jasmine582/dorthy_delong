@@ -57,6 +57,6 @@ nav{
 .card{
     display:grid;
     grid-template-rows: repeat(2, 50px);
-    gap:12px;
+    gap:15px;
 
 }
