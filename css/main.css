@@ -40,8 +40,11 @@ nav{
     font-size: 1.5rem;
     padding-top: 5%;
 }
-#portfolio{
+main{
     background-color: #a55e63;
+}
+#portfolio{
+    
     border-radius: 40px;
     display:flex;
     justify-content: center;
@@ -54,9 +57,18 @@ nav{
     align-content: center;
     width: 25%;
 }
-.card{
+.card {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+/* .card{
     display:grid;
     grid-template-rows: repeat(2, 50px);
     gap:15px;
-
+} */
+#about,
+footer{
+    background-color: #314455;
 }
